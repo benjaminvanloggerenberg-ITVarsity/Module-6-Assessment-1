@@ -226,7 +226,7 @@ ul.styled li{
 
 #gallery img{
     width: 120px;
-    margin: 12px;
+    margin: 11px;
     -moz-transition: -moz-transform 0.5s ease-in;
 	-webkit-transition: -webkit-transform 0.5s ease-in;
 	-o-transition: -o-transform 0.5s ease-in;
